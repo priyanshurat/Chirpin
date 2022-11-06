@@ -1,4 +1,4 @@
-# Chirpin' Interview Pose Detection module
+# Chirpin' Pose Correction module
 
 
 This code will help you to get your pose correct during the interview's round as the kinesics part of soft skills also plays a very vital role in getting you placed into your dream company 😜😜.
